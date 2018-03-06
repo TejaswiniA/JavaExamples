@@ -1,1 +1,1 @@
-Java Example Project
+This is my first project
